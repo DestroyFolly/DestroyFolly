@@ -1,8 +1,8 @@
-### Hi, I'm Pavel  <img src="https://img.icons8.com/color/20/000000/instagram-verification-badge.png"/><a href="" target="_blank"> <img align="right" src="https://komarev.com/ghpvc/?username=DestroyFolly"/>
+# Hi, I'm Pavel  <img src="https://img.icons8.com/color/20/000000/instagram-verification-badge.png"/><a href="" target="_blank"> <img align="right" src="https://komarev.com/ghpvc/?username=DestroyFolly"/>
 
-<a href="https://t.me/maslukovp" target="_blank"><img src="https://img.icons8.com/color/40/000000/telegram-app--v4.png"/></a>
-<a href="" target="_blank"><img src="https://img.icons8.com/color/40/000000/linkedin-circled--v2.png"/></a>
-<a href="" target="_blank"><img src="https://img.icons8.com/color/40/000000/vk-circled.png"/></a>
+<a href="https://t.me/maslukovp" target="_blank"><img width="60" height="60" src="https://img.icons8.com/ios-filled/50/telegram.png" alt="telegram"/></a>
+<a href="" target="_blank"><img width="60" height="60" src="https://img.icons8.com/ios-filled/50/vk-circled.png" alt="vk-circled"/></a>
+<a href="" target="_blank"><img width="60" height="60" src="https://img.icons8.com/ios-filled/50/linkedin-circled--v1.png" alt="linkedin-circled--v1"/></a>
 
 <h1 style="color: red">Languages</h1>
 
