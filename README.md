@@ -6,16 +6,20 @@
 
 <h1 style="color: red">Languages</h1>
 
-![C](https://img.shields.io/badge/-C-000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C-000?style=flat&logo=Cpp)
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=Python)
-![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=MySQL)
+![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=PostgreSQL)
+![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=Cplusplus)
+![C](https://img.shields.io/badge/-C-000?style=flat&logo=C)
+
   
 <h1 style="color: red">Technologies</h1>
 
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux&logoColor=FCC624)
 ![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=Docker)
+![Latex](https://img.shields.io/badge/-LaTex-000?style=flat&logo=LaTex)
+![Tableau](https://img.shields.io/badge/-Tableau-000?style=flat&logo=Tableau)
+![Qt](https://img.shields.io/badge/-Qt-000?style=flat&logo=Qt)
 
       
 In short about me:
