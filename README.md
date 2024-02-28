@@ -1,5 +1,12 @@
 # Hi, I'm Pavel  <img src="https://img.icons8.com/color/20/000000/instagram-verification-badge.png"/><a href="" target="_blank"> <img align="right" src="https://komarev.com/ghpvc/?username=DestroyFolly"/>
 
+In short about me:
+- I'm studing at [Bauman Moscow State University](https://bmstu.ru) On programm "Computer Software and Information Technology".
+- **I am open to getting involved in <u>new interesting</u> projects. Please write to the contacts below**
+
+
+  
+
 <a href="https://t.me/maslukovp" target="_blank"><img width="60" height="60" src="https://img.icons8.com/ios-filled/50/telegram.png" alt="telegram"/></a>
 <a href="https://vk.com/g0aty" target="_blank"><img width="60" height="60" src="https://img.icons8.com/ios-filled/50/vk-circled.png" alt="vk-circled"/></a>
 <a href="https://linkedin.com/in/pavel-maslukov-02838b2b7" target="_blank"><img width="60" height="60" src="https://img.icons8.com/ios-filled/50/linkedin-circled--v1.png" alt="linkedin-circled--v1"/></a>
@@ -22,8 +29,5 @@
 ![Qt](https://img.shields.io/badge/-Qt-000?style=flat&logo=Qt)
 
       
-In short about me:
-- I'm studing at [Bauman Moscow State University](https://bmstu.ru)
-- **I am open to getting involved in <u>new interesting</u> projects. Please write to the contacts above**
 
 
