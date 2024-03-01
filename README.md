@@ -9,7 +9,6 @@ In short about me:
 
 <a href="https://t.me/maslukovp" target="_blank"><img width="60" height="60" src="https://img.icons8.com/ios-filled/50/telegram.png" alt="telegram"/></a>
 <a href="https://vk.com/g0aty" target="_blank"><img width="60" height="60" src="https://img.icons8.com/ios-filled/50/vk-circled.png" alt="vk-circled"/></a>
-<a href="https://linkedin.com/in/pavel-maslukov-02838b2b7" target="_blank"><img width="60" height="60" src="https://img.icons8.com/ios-filled/50/linkedin-circled--v1.png" alt="linkedin-circled--v1"/></a>
 
 <h1 style="color: red">Languages</h1>
 
