@@ -1,7 +1,7 @@
 # Hi, I'm Pavel  <img src="https://img.icons8.com/color/20/000000/instagram-verification-badge.png"/><a href="" target="_blank"> <img align="right" src="https://komarev.com/ghpvc/?username=DestroyFolly"/>
 
 In short about me:
-- I'm studing at [Bauman Moscow State University](https://bmstu.ru) On programm "Computer Software and Information Technology".
+- I'm student at [Bauman Moscow State University](https://bmstu.ru) On programm "Computer Software and Information Technology".
 - **I am open to getting involved in <u>new interesting</u> projects. Please write to the contacts below**
 
 
